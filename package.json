@@ -10,8 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "body-parser": "^1.15.2",
+  "dependencies": {
     "express": "^4.14.0",
     "mongoose": "^5.7.5",
     "node-restful": "^0.2.5",
